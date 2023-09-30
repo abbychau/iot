@@ -55,7 +55,7 @@ I really would like to come up with an equation for people to set the `try_spins
   
 So I can just left it to the user.  
   
-{% ghcode https://github.com/abbychau/multiqueue2/blob/master/src/multiqueue.rs#L1099-L1125  
+https://github.com/abbychau/multiqueue2/blob/master/src/multiqueue.rs#L1099-L1125  
   
 I would like to investigate and develop a clear equation for concurrency hybrid lock, but it seems to be a bit long and I may have it later in a Paper form.  
   
