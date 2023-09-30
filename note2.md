@@ -4,4 +4,4 @@ share: true
   
   
   
-[[index|index]]
+[index](index.md#)
